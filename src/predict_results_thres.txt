@@ -1,0 +1,282 @@
+-----------0.500000------------
+start time is  2017-12-25 09:55:08.128451
+the posedge rate is 0.997
+the negedge rate is 0.996
+the background rate is 0.990
+the total rate is 0.995
+the total time is  0:02:05.314653
+-----------0.510000------------
+start time is  2017-12-25 09:57:13.443132
+the posedge rate is 0.997
+the negedge rate is 0.996
+the background rate is 0.990
+the total rate is 0.995
+the total time is  0:01:55.608472
+-----------0.520000------------
+start time is  2017-12-25 09:59:09.051631
+the posedge rate is 0.997
+the negedge rate is 0.996
+the background rate is 0.990
+the total rate is 0.995
+the total time is  0:01:55.320893
+-----------0.530000------------
+start time is  2017-12-25 10:01:04.372549
+the posedge rate is 0.997
+the negedge rate is 0.996
+the background rate is 0.990
+the total rate is 0.995
+the total time is  0:01:55.332143
+-----------0.540000------------
+start time is  2017-12-25 10:02:59.704720
+the posedge rate is 0.997
+the negedge rate is 0.996
+the background rate is 0.990
+the total rate is 0.995
+the total time is  0:01:54.822606
+-----------0.550000------------
+start time is  2017-12-25 10:04:54.527354
+the posedge rate is 0.997
+the negedge rate is 0.996
+the background rate is 0.990
+the total rate is 0.995
+the total time is  0:01:55.174917
+-----------0.560000------------
+start time is  2017-12-25 10:06:49.702300
+the posedge rate is 0.997
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.995
+the total time is  0:01:55.364491
+-----------0.570000------------
+start time is  2017-12-25 10:08:45.066817
+the posedge rate is 0.997
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.995
+the total time is  0:01:54.640504
+-----------0.580000------------
+start time is  2017-12-25 10:10:39.707346
+the posedge rate is 0.997
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.995
+the total time is  0:01:54.338616
+-----------0.590000------------
+start time is  2017-12-25 10:12:34.045990
+the posedge rate is 0.997
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.995
+the total time is  0:01:54.773034
+-----------0.600000------------
+start time is  2017-12-25 10:14:28.819051
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.994
+the total time is  0:01:54.898234
+-----------0.610000------------
+start time is  2017-12-25 10:16:23.717314
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.994
+the total time is  0:01:54.886517
+-----------0.620000------------
+start time is  2017-12-25 10:18:18.603858
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.994
+the total time is  0:01:54.660810
+-----------0.630000------------
+start time is  2017-12-25 10:20:13.264690
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.994
+the total time is  0:01:54.284344
+-----------0.640000------------
+start time is  2017-12-25 10:22:07.549078
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.994
+the total time is  0:01:55.451168
+-----------0.650000------------
+start time is  2017-12-25 10:24:03.000274
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.992
+the total rate is 0.994
+the total time is  0:01:54.652243
+-----------0.660000------------
+start time is  2017-12-25 10:25:57.652546
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.994
+the total rate is 0.995
+the total time is  0:01:55.139347
+-----------0.670000------------
+start time is  2017-12-25 10:27:52.791924
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.994
+the total rate is 0.995
+the total time is  0:01:54.908841
+-----------0.680000------------
+start time is  2017-12-25 10:29:47.700838
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.994
+the total rate is 0.995
+the total time is  0:01:54.928623
+-----------0.690000------------
+start time is  2017-12-25 10:31:42.629489
+the posedge rate is 0.996
+the negedge rate is 0.994
+the background rate is 0.994
+the total rate is 0.995
+the total time is  0:01:54.685316
+-----------0.700000------------
+start time is  2017-12-25 10:33:37.314834
+the posedge rate is 0.994
+the negedge rate is 0.994
+the background rate is 0.994
+the total rate is 0.994
+the total time is  0:01:55.188668
+-----------0.710000------------
+start time is  2017-12-25 10:35:32.503531
+the posedge rate is 0.994
+the negedge rate is 0.994
+the background rate is 0.994
+the total rate is 0.994
+the total time is  0:01:55.087074
+-----------0.720000------------
+start time is  2017-12-25 10:37:27.590634
+the posedge rate is 0.994
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.995
+the total time is  0:01:55.175986
+-----------0.730000------------
+start time is  2017-12-25 10:39:22.766663
+the posedge rate is 0.994
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.995
+the total time is  0:01:55.309957
+-----------0.740000------------
+start time is  2017-12-25 10:41:18.076646
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:54.658281
+-----------0.750000------------
+start time is  2017-12-25 10:43:12.734955
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:55.445930
+-----------0.760000------------
+start time is  2017-12-25 10:45:08.180912
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:55.252279
+-----------0.770000------------
+start time is  2017-12-25 10:47:03.433218
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:55.541868
+-----------0.780000------------
+start time is  2017-12-25 10:48:58.975112
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:54.608925
+-----------0.790000------------
+start time is  2017-12-25 10:50:53.584065
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:54.771267
+-----------0.800000------------
+start time is  2017-12-25 10:52:48.355358
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:55.911406
+-----------0.810000------------
+start time is  2017-12-25 10:54:44.266790
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:54.678284
+-----------0.820000------------
+start time is  2017-12-25 10:56:38.945103
+the posedge rate is 0.993
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:55.229029
+-----------0.830000------------
+start time is  2017-12-25 10:58:34.174158
+the posedge rate is 0.992
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:01:56.521622
+-----------0.840000------------
+start time is  2017-12-25 11:00:30.695809
+the posedge rate is 0.992
+the negedge rate is 0.994
+the background rate is 0.996
+the total rate is 0.994
+the total time is  0:02:00.134380
+-----------0.850000------------
+start time is  2017-12-25 11:02:30.830233
+the posedge rate is 0.992
+the negedge rate is 0.993
+the background rate is 0.998
+the total rate is 0.994
+the total time is  0:02:01.488595
+-----------0.860000------------
+start time is  2017-12-25 11:04:32.318856
+the posedge rate is 0.992
+the negedge rate is 0.993
+the background rate is 0.998
+the total rate is 0.994
+the total time is  0:02:00.082495
+-----------0.870000------------
+start time is  2017-12-25 11:06:32.401377
+the posedge rate is 0.991
+the negedge rate is 0.993
+the background rate is 0.998
+the total rate is 0.993
+the total time is  0:01:55.566897
+-----------0.880000------------
+start time is  2017-12-25 11:08:27.968301
+the posedge rate is 0.990
+the negedge rate is 0.991
+the background rate is 0.998
+the total rate is 0.992
+the total time is  0:01:55.907819
+-----------0.890000------------
+start time is  2017-12-25 11:10:23.876146
+the posedge rate is 0.988
+the negedge rate is 0.990
+the background rate is 0.998
+the total rate is 0.991
+the total time is  0:01:55.496138
+-----------0.900000------------
+start time is  2017-12-25 11:12:19.372307

@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+src/model
+src/results
+src/testimg
+src/test_model

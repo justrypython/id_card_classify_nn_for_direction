@@ -1,0 +1,35 @@
+#convnet_direction_227_weights_epoch02_loss0.0835.h5
+the downside rate is 0.985
+the right side rate is 0.981
+the upside rate is 0.980
+the left side rate is 0.980
+the total rate is 0.982
+the total time is  1:11:08.981380
+end
+
+#convnet_direction_227_weights_epoch03_loss0.0820.h5
+the downside rate is 0.980
+the right side rate is 1.000
+the upside rate is 1.000
+the left side rate is 0.990
+the total rate is 0.993
+the total time is  0:02:01.599434
+end
+
+#convnet_direction_227_weights_epoch02_loss0.0835.h5
+the downside rate is 0.975
+the right side rate is 0.941
+the upside rate is 0.964
+the left side rate is 0.982
+the total rate is 0.965
+the total time is  0:21:05.402219
+end
+
+#convnet_direction_227_weights_epoch03_loss0.0820.h5
+the downside rate is 0.959
+the right side rate is 0.955
+the upside rate is 0.986
+the left side rate is 0.975
+the total rate is 0.969
+the total time is  0:21:14.044113
+end
